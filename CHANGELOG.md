@@ -5,3 +5,7 @@
 # 0.1.1
 
 - hotfix alterando subtitulo (José)
+
+# 0.1.2
+
+- hotfix alterando fim do texto (Cauet)
